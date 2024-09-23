@@ -1,0 +1,14 @@
+name: cda6740
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - scikit-learn
+  - seaborn
+  - numpy
+  - pandas
+  - pyyaml
+  - matplotlib
+  - jupyterlab
+  - pip
