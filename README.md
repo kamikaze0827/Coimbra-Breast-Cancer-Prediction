@@ -1,6 +1,18 @@
-This is a final project for CDA 6740 - OMSA GATech
+Breast Cancer Diagnostic Prediction Project
+Overview
+This project utilizes the Breast Cancer Coimbra dataset to develop and implement predictive machine learning models aimed at diagnosing breast cancer in patients.
 
-The project utlizes the Breast Cancer Coimbra dataset to build and implement predictive ML models to predict patient's breast cancer diagnostic
+Dataset Description
+The Breast Cancer Coimbra dataset includes data from patients with various biomarkers, comprising 10 features such as:
 
-1. Run the environment.yaml
-2. Open the Jupyter Notebook file (.ipynb)
+Glucose
+HOMA (Homeostasis Model Assessment)
+[Add any additional variables here]
+These features are essential for training the machine learning models to accurately predict breast cancer diagnoses.
+
+Objectives
+Build predictive models to assess the likelihood of breast cancer diagnosis based on biomarker data.
+Analyze the performance of different machine learning algorithms.
+Usage
+[Include instructions on how to run the project, any dependencies, and how to interpret the results.]
+
